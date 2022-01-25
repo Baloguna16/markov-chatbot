@@ -3,9 +3,6 @@
 .env.dev
 .env.docker
 
-pickle
-data
-
 # python
 env
 .DS_Store
