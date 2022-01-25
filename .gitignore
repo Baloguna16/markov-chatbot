@@ -1,0 +1,16 @@
+# misc
+.env
+.env.dev
+.env.docker
+
+pickle
+data
+
+# python
+env
+.DS_Store
+__pycache__
+
+
+# development notes
+todo.txt
